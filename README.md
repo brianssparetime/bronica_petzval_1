@@ -70,7 +70,7 @@ Basically, everything stacks into the main barrel.  In order:  front element, fr
 
 Lens design resources:
 
- - [LensRentalBlog](here with the lensrentalblog) great for learning about basic designs without a ton of math (singlet, doublet, triplet, tessar, tele/retro, double gauss)
+ - [LensRentalBlog](https://www.lensrentals.com/blog/2011/08/lens-geneology-part-1) great for learning about basic designs without a ton of math (singlet, doublet, triplet, tessar, tele/retro, double gauss)
  - [PencilOfRays](https://www.pencilofrays.com/lens-design-forms/) - this was interesting, but too advanced for me.  I didn't know a lot of the attributes of my budget lenses which I needed to fill out the spreadsheet
  - formulas for lens combination and bfd [here](https://jackwestin.com/resources/mcat-content/geometrical-optics/combination-of-lenses) and [here](https://physics.stackexchange.com/questions/800901/geometric-optics-multiple-lens-focal-length-calculation)
  - [lensmaker's equation on wikipedia](https://en.wikipedia.org/wiki/Lens#Lensmaker%27s_equation)
