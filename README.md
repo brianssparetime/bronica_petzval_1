@@ -9,7 +9,7 @@ For quite some time, I've wanted a petzval-like lens for my Bronica S2a.  More s
 
 I tried buying a cheap brass petzval, but it turned out to be way too big (I have future plans for this one).  I struggle with figuring out the right focal length to clear the flange distance with these petzval and magic lantern type lenses.....
 
-I have also tried adapting existing lenses, like the [simple lens from a Buster Brown 3A box camera](https://www.reddit.com/r/AnalogCommunity/comments/1iykq9i/bronica_s2a_sporting_a_box_camera_lens_with_a/), but this didn't delivery.
+I have also tried adapting existing lenses, like the [simple lens from a Buster Brown 3A box camera](https://www.reddit.com/r/AnalogCommunity/comments/1iykq9i/bronica_s2a_sporting_a_box_camera_lens_with_a/), but this didn't deliver what I wanted.
 
 So onto designing my own lens.
 
