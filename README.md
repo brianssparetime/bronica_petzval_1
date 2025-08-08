@@ -4,12 +4,20 @@
 
 For quite some time, I've wanted a petzval-like lens for my Bronica S2a.  More specifically, I want a lens that is reasonably fast, delivers swirly bokeh, and has field curvature like a bowl.  And cost less than $500.
 
+![IMG_2049_hero](img/IMG_2049_hero.jpeg)
 
-I tried buying a cheap brass petzval, but it turned out to be way too big.  I struggle with figuring out the right focal length to clear the flange distance. 
+
+I tried buying a cheap brass petzval, but it turned out to be way too big (I have future plans for this one).  I struggle with figuring out the right focal length to clear the flange distance with these petzval and magic lantern type lenses.....
 
 I have also tried adapting existing lenses, like the [simple lens from a Buster Brown 3A box camera](https://www.reddit.com/r/AnalogCommunity/comments/1iykq9i/bronica_s2a_sporting_a_box_camera_lens_with_a/), but this didn't delivery.
 
 So onto designing my own lens.
+
+![IMG_2050_front_hood](img/IMG_2050_front_hood.jpeg)
+![IMG_2048_no_hood_stops](img/IMG_2048_no_hood_stops.jpeg)
+
+
+
 
 I've been going down the optics rabbit hole for a few months (some good resources below at the end), so I have a basic grasp of the simple lens design options (single, doublet/achromat, triplet, tessar, etc).
 
@@ -22,6 +30,10 @@ For the lens housing, after messing around with trying to find pipes or tubes th
 
 With a now working printer, I started [designing the lens in openscad](https://github.com/brianssparetime/bronica_petzval_1).  I've only played with openscad a few times (mainly updating a design for KMZ FT2 film carts), but it's very straight forward for someone with a programming background, and simple to learn.
 
+
+![bronica_petzval_1-img1](img/bronica_petzval_1-img1.jpeg)
+![bronica_petzval_1-img2](img/bronica_petzval_1-img2.jpeg)
+
 Unfortunately, I was playing around with my lens design spreadsheet when I was doing the cad design, and wound up using the wrong set of lens elements in my design, so the resulting back focal distance is much more suited to a 35mm SLR than my Bronica.
 
 Although I failed in my main objective (pun intended), I learned a lot from this first go and I'm not done with this idea yet.  I need to double check my math, but I think the outline of the optical design has some promise and might be interesting to others (given its suitability for 35mm).  I think the design came out well aesthetically.
@@ -31,6 +43,8 @@ Any advice welcomed!
 Also, credit where credit is due - I was inspired in part by reddit.com/u/TheAlbinoGiraffe.   When you posted your 35mm perf machine, I checked out the rest of your site and saw your [post about designing a multi-element lens](https://www.jacksonbohm.com/read/designing-and-3d-printing-a-multi-element-portrait-lens).  I'm not where you are with ray tracing, but I figured a shittier version was within my reach.   
 
 Finally, disclaimer:   I did experiment a bit with AI on this project.  I used chatgpt 4o at several points to confirm and explore aspects of what I was considering.   On optical engineering, I found it sucked (bad math, some lying, made up element recommendations).   On generating openscad, I found it sucked (generated code didn't run, wasn't accurate to descriptions).   But it damn sure was good at fixing my 3d printer and printing issues, except for lying to me about the its recommended replacement PS having a matching screw pattern.  So the openscad is my own code and the optical failures are my fault too.
+
+![IMG_2055_parts_annot](img/IMG_2055_parts_annot.jpeg)
 
 The parts of the lens from the image with the red numbers:
 
