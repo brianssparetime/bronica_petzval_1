@@ -28,7 +28,7 @@ Although I failed in my main objective (pun intended), I learned a lot from this
 
 Any advice welcomed!   
 
-Also, credit where credit is due - I was inspired in part by u/TheAlbinoGiraffe.   When you posted your 35mm perf machine, I checked out the rest of your site and saw your [post about designing a multi-element lens](https://www.jacksonbohm.com/read/designing-and-3d-printing-a-multi-element-portrait-lens).  I'm not where you are with ray tracing, but I figured a shittier version was within my reach.   
+Also, credit where credit is due - I was inspired in part by reddit.com/u/TheAlbinoGiraffe.   When you posted your 35mm perf machine, I checked out the rest of your site and saw your [post about designing a multi-element lens](https://www.jacksonbohm.com/read/designing-and-3d-printing-a-multi-element-portrait-lens).  I'm not where you are with ray tracing, but I figured a shittier version was within my reach.   
 
 Finally, disclaimer:   I did experiment a bit with AI on this project.  I used chatgpt 4o at several points to confirm and explore aspects of what I was considering.   On optical engineering, I found it sucked (bad math, some lying, made up element recommendations).   On generating openscad, I found it sucked (generated code didn't run, wasn't accurate to descriptions).   But it damn sure was good at fixing my 3d printer and printing issues, except for lying to me about the its recommended replacement PS having a matching screw pattern.  So the openscad is my own code and the optical failures are my fault too.
 
